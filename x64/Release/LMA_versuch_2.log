@@ -1,0 +1,10 @@
+﻿  lma_polynomial.cpp
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\LMA_versuch_2\lma_polynomial.cpp(26,28): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\LMA_versuch_2\lma_polynomial.cpp(116,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\LMA_versuch_2\lma_polynomial.cpp(146,9): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+  Generating code
+  3 of 3880 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    75 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LMA_versuch_2.vcxproj -> E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\LMA_versuch_2\x64\Release\LMA_versuch_2.exe
